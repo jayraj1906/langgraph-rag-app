@@ -16,7 +16,7 @@ This is a LangChain + LangGraph + FastAPI-based RAG (Retrieval-Augmented Generat
        "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/"
      ]
    }
-````
+    ````
 
 2. **Ingest & Store**
    The content of those URLs is:
@@ -138,14 +138,8 @@ Same as `/predict`, but runs the internal LangGraph graph in a streaming fashion
 
    It will search Wikipedia instead.
 
----
 
 ## 💬 Questions?
 
 Feel free to open an issue or contact me on [GitHub](https://github.com/jayraj1906).
 
-```
-
----
-
-```
